@@ -13,4 +13,10 @@ https://github.com/johnpapa/angularjs-styleguide
 
 http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
 
+<h3>Tutorial sites</h3>
+
+https://www.udemy.com
+
+http://www.codecademy.com/
+
 
