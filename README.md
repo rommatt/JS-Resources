@@ -25,4 +25,6 @@ https://www.udemy.com
 
 http://www.codecademy.com/
 
+http://www.pluralsight.com/
+
 
