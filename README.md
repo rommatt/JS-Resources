@@ -29,7 +29,11 @@ http://www.pluralsight.com/
 
 http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/
 
-<h3>Front End General>/h3>
+<h3>Package Managers</h3>
+
+http://bower.io/
+
+<h3>Front End General</h3>
 
 http://frontendfront.com/
 
