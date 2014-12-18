@@ -19,13 +19,15 @@ http://www.smashingmagazine.com/2013/10/29/get-up-running-grunt/
 
 http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
 
-<h3>Tutorial sites</h3>
+<h3>Tutorials</h3>
 
 https://www.udemy.com
 
 http://www.codecademy.com/
 
 http://www.pluralsight.com/
+
+http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/
 
 <h3>Front End General>/h3>
 
