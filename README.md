@@ -33,6 +33,10 @@ http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/
 
 http://bower.io/
 
+<h3>Version Control</h3>
+
+http://git-scm.com/book/en/v2
+
 <h3>Front End General</h3>
 
 http://frontendfront.com/
