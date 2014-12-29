@@ -39,6 +39,8 @@ http://bower.io/
 
 http://git-scm.com/book/en/v2
 
+http://gitimmersion.com/
+
 <h3>Front End General</h3>
 
 http://frontendfront.com/
