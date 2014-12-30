@@ -47,4 +47,10 @@ http://frontendfront.com/
 
 https://ihatetomatoes.net/3-things-to-watch-out-for-in-2015/
 
+<h3>Web Components</h3>
+
+http://webcomponents.org/
+
+https://www.polymer-project.org/
+
 
