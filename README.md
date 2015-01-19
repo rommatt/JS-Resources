@@ -47,6 +47,8 @@ http://git-scm.com/book/en/v2
 
 http://gitimmersion.com/
 
+http://dploy.io/
+
 <h3>Front End General</h3>
 
 http://frontendfront.com/
