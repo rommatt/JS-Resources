@@ -11,6 +11,8 @@ https://github.com/johnpapa/angularjs-styleguide
 
 http://codepen.io/collection/aFsqL/  /* Examples*/
 
+http://www.revillweb.com/the-best-angularjs-resources/
+
 <h3>Node</h3>
 
 http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
