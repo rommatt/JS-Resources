@@ -17,6 +17,8 @@ http://www.revillweb.com/the-best-angularjs-resources/
 
 http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
 
+http://nodeschool.io/
+
 <h3>Task Runners</h3>
 
 http://hmphry.com/gulp/
@@ -50,6 +52,10 @@ http://git-scm.com/book/en/v2
 http://gitimmersion.com/
 
 http://dploy.io/
+
+<h3>MEAN Stack</h3>
+
+http://mean.io/#!/
 
 <h3>Front End General</h3>
 
