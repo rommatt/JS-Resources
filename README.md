@@ -49,6 +49,8 @@ http://javascriptissexy.com/how-to-learn-javascript-properly/
 
 http://bower.io/
 
+http://yeoman.io/codelab.html
+
 <h3>Version Control</h3>
 
 http://git-scm.com/book/en/v2
