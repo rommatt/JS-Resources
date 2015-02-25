@@ -33,6 +33,8 @@ http://www.oomphinc.com/blog/2014-03/gulp-vs-grunt-node-js-automation-tools-show
 
 https://www.udemy.com/learn-gulp/#/
 
+http://lifes.gd/2015/02/24/my-gulp-workflow.html
+
 <h3>Tutorials</h3>
 
 https://www.udemy.com
