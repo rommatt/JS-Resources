@@ -17,6 +17,8 @@ http://www.planningforaliens.com/angular/animate-your-angular-application/
 
 http://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy
 
+https://medium.com/@TK_CodeBear/getting-started-with-angular-part-1-bd448458566e
+
 <h3>Node</h3>
 
 http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
