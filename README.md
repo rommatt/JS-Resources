@@ -5,6 +5,8 @@ Repository for javascript related information
 
 <h3>Angular</h3>
 
+http://brukalo.com/  // short simple NG lessons
+
 https://github.com/JonathanZWhite/AngularJS-Resources
 
 https://github.com/johnpapa/angularjs-styleguide
