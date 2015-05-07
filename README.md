@@ -85,4 +85,8 @@ https://www.polymer-project.org/
 
 https://github.com/ressio/lazy-load-xt
 
+<h3>UI Components</h3>
+
+http://codyhouse.co/gem/hero-slider
+
 
