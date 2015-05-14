@@ -91,4 +91,6 @@ https://github.com/ressio/lazy-load-xt
 
 http://codyhouse.co/gem/hero-slider
 
+http://git.blivesta.com/animsition/
+
 
