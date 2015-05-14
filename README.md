@@ -93,4 +93,6 @@ http://codyhouse.co/gem/hero-slider
 
 http://git.blivesta.com/animsition/
 
+http://miguel-perez.github.io/smoothState.js/index.html
+
 
