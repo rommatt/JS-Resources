@@ -95,4 +95,6 @@ http://git.blivesta.com/animsition/
 
 http://miguel-perez.github.io/smoothState.js/index.html
 
+http://draggabilly.desandro.com  // drag and drop
+
 
