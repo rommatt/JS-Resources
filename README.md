@@ -29,6 +29,10 @@ http://nodeschool.io/
 
 <h3>Task Runners</h3>
 
+https://travismaynard.com/writing/getting-started-with-gulp
+
+https://markgoodyear.com/2014/01/getting-started-with-gulp/
+
 https://github.com/ttbarnes/sass-quick-start
 
 http://hmphry.com/gulp/
