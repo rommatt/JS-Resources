@@ -103,4 +103,10 @@ http://miguel-perez.github.io/smoothState.js/index.html
 
 http://draggabilly.desandro.com  // drag and drop
 
+<h3>Hoisting</h3>
+
+http://www.code-sample.com/2015/04/javascript-interview-questions-answers.html
+
+http://code.tutsplus.com/tutorials/javascript-hoisting-explained--net-15092
+
 
