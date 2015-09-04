@@ -109,4 +109,8 @@ http://www.code-sample.com/2015/04/javascript-interview-questions-answers.html
 
 http://code.tutsplus.com/tutorials/javascript-hoisting-explained--net-15092
 
+<h3>Prototype Inheritance</h3>
+
+http://markdalgleish.com/2012/10/a-touch-of-class-inheritance-in-javascript/
+
 
