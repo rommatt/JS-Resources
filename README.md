@@ -115,6 +115,8 @@ http://markdalgleish.com/2012/10/a-touch-of-class-inheritance-in-javascript/
 
 http://phrogz.net/js/classes/OOPinJS2.html
 
+http://www.sitepoint.com/simple-inheritance-javascript/
+
 <h3>This</h3>
 
 http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
