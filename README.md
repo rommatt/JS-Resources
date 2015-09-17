@@ -45,6 +45,12 @@ https://www.udemy.com/learn-gulp/#/
 
 http://lifes.gd/2015/02/24/my-gulp-workflow.html
 
+<h3>Helpers</h3>
+
+http://underscorejs.org/
+
+https://lodash.com/docs
+
 <h3>Tutorials</h3>
 
 https://www.udemy.com
