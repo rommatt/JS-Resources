@@ -3,6 +3,8 @@ JS-resources
 
 Repository for javascript related information
 
+http://www.freewebdesigntutorials.net/50-favorite-javascript-tools-from-2015/
+
 <h3>Angular</h3>
 
 http://brukalo.com/  // short simple NG lessons
