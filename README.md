@@ -35,6 +35,10 @@ http://nodeschool.io/
 
 <h3>Task Runners</h3>
 
+http://www.sitepoint.com/simple-gulpy-workflow-sass/  // simple Gulp install with sass
+
+https://github.com/lacroixdesign/node-bourbon  // Bourbon mixin lib with Gulp
+
 http://scriptonitejs.com/gulp-getting-started/
 
 https://github.com/gulpjs/gulp/blob/master/docs/README.md#articles
