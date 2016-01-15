@@ -123,6 +123,8 @@ https://github.com/ressio/lazy-load-xt
 
 <h3>UI Components</h3>
 
+http://www.minimit.com/articles/solutions-tutorials/fullscreen-backgrounds-with-centered-content  // full screen responsive header image
+
 http://codyhouse.co/gem/hero-slider
 
 http://git.blivesta.com/animsition/
