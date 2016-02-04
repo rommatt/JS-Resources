@@ -25,6 +25,8 @@ https://medium.com/@TK_CodeBear/getting-started-with-angular-part-1-bd448458566e
 
 <h3>jQuery</h3>
 
+http://wch.io/projects/tagsort/  // Filter by tag
+
 https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know
 
 <h3>Node</h3>
