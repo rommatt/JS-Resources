@@ -37,6 +37,8 @@ http://nodeschool.io/
 
 <h3>Task Runners</h3>
 
+https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js  // More current Gulp install tutorial
+
 http://www.sitepoint.com/simple-gulpy-workflow-sass/  // simple Gulp install with sass
 
 https://github.com/lacroixdesign/node-bourbon  // Bourbon mixin lib with Gulp
