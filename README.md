@@ -127,6 +127,8 @@ https://github.com/ressio/lazy-load-xt
 
 <h3>UI Components</h3>
 
+https://github.com/luruke/barba.js  // Page transitions
+
 http://vestride.github.io/Shuffle/  // responsive grid shuffle
 
 http://www.queness.com/post/14577/create-a-simple-responsive-portfolio-page-with-filtering-and-hover-effect  // example of MixItUp plugin
